@@ -40,7 +40,7 @@
 body{
     background-color:var(--cor1);
     font-family: var(--fonte-padrão);
-    min-width: auto;
+
 }
 
 a.externo::after{
@@ -52,6 +52,7 @@ header{
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
+    min-width: auto;
 }
 
 header > h1{
