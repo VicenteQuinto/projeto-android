@@ -40,7 +40,7 @@
 body{
     background-color:var(--cor1);
     font-family: var(--fonte-padrão);
-    min-width: 200px;
+    min-width: auto;
 }
 
 a.externo::after{
